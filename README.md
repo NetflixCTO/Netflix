@@ -36,7 +36,7 @@ npm run exec
 ### Frontend
 [FrontPage][1]
 
-[PlayPage][1]
+[PlayPage][2]
 
 admin：admin@qq.com
 password: 123456
@@ -55,9 +55,10 @@ http://vt1.doubanio.com/201805241616/ca24dfd1d36cc84406e361b2c8a90d23/view/movie
 
 ## Screenshots
 ### FrontPage
-![此处输入图片的描述][4]
+![此处输入图片的描述][3]
+![此处输入图片的描述][6]
 ### Detail
-![此处输入图片的描述][5]
+![此处输入图片的描述][7]
 
 
 ## Structure
@@ -118,8 +119,7 @@ http://vt1.doubanio.com/201805241616/ca24dfd1d36cc84406e361b2c8a90d23/view/movie
 
   [1]: https://daxiv.com/
   [2]: https://daxiv.com/detail/5bc28a71f758a50006137653
-  [3]: https://ws1.sinaimg.cn/large/e8323205gy1frmi81dy3fj20qe0ftq3n.jpg
-  [4]: https://ws1.sinaimg.cn/large/e8323205gy1frmj7tnjjmj213v0jn13t.jpg
-  [5]: https://ws1.sinaimg.cn/large/e8323205gy1frmj82b4amj213t0joaht.jpg
-  [6]: https://ws1.sinaimg.cn/large/e8323205gy1frmj7wcfp8j21400jnq3k.jpg
-  [7]: https://ws1.sinaimg.cn/large/e8323205gy1frmj804qquj213w0jngpy.jpg
+  [3]: https://github.com/NetflixCTO/Netflix/raw/master/image/2.png
+  [6]: https://github.com/NetflixCTO/Netflix/raw/master/image/3.png
+  [7]: https://github.com/NetflixCTO/Netflix/raw/master/image/1.png
+
